@@ -755,5 +755,6 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 **Phase 7: Cleanup**
 
 1. **Cleanup AWS EC2 Instances:**
-    - Terminate AWS EC2 instances that are no longer needed.#   N e t f l i x - c l o n e - K u b e r n e t e s - p i p e l i n e  
+    - Terminate AWS EC2 instances that are no longer needed.#   N e t f l i x - c l o n e - K u b e r n e t e s - p i p e l i n e 
+ 
  
