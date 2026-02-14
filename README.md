@@ -71,7 +71,7 @@ It will show an error cause you need API key
 
 - Open a web browser and navigate to TMDB (The Movie Database) website.
 - Click on "Login" and create an account.
-- Once logged in, go to your profile and select "Settings."
+- Once logged in, go to your profile and select "Settings.."
 - Click on "API" from the left-side panel.
 - Create a new API key by clicking "Create" and accepting the terms and conditions.
 - Provide the required basic details and click "Submit."
